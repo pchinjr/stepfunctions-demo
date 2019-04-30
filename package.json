@@ -7,5 +7,9 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "serverless-pseudo-parameters": "^2.4.0",
+    "serverless-step-functions": "^1.17.1"
+  }
 }
